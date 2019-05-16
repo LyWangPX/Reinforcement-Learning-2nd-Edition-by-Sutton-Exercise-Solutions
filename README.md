@@ -5,9 +5,10 @@ First two chapters are skipped because they are trivial.
 Will finish all in 6 months.
 
 # Chapter 3
-[Here](https://github.com/LyWangPX/Solutions-of-Reinforcement-Learning-An-Introduction-Sutton-2nd/blob/master/Solutions_to_Reinforcement_Learning_by_Sutton_Chapter_3.pdf)
+[CHAPTER 3 SOLUTION PDF HERE](https://github.com/LyWangPX/Solutions-of-Reinforcement-Learning-An-Introduction-Sutton-2nd/blob/master/Solutions_to_Reinforcement_Learning_by_Sutton_Chapter_3.pdf)
 
 # Chapter 4
-Working on it. 70%.
-Ex4.7 is extremely time consuming. 
-Expect to upload before next week.
+Finished. 
+Ex4.7 Partially finished. 
+Dat DP question will burn my mind and macbook but I encourage any one who cares nothing about that trying to do yourself. Running through it forces you remember everything behind ordinary DP.:)
+[CHAPTER 4 SOLUTION PDF HERE](https://github.com/LyWangPX/Solutions-of-Reinforcement-Learning-An-Introduction-Sutton-2nd/blob/master/Solutions_to_Reinforcement_Learning_by_Sutton_Chapter_3.pdf)
