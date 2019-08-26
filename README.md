@@ -16,4 +16,5 @@ Dat DP question will burn my mind and macbook but I encourage any one who cares 
 
 # Chapter 5
 Partially finished.
+
 [CHAPTER 5 SOLUTION PDF HERE](https://github.com/LyWangPX/Solutions-of-Reinforcement-Learning-An-Introduction-Sutton-2nd/blob/master/Solutions_to_Reinforcement_Learning_by_Sutton_Chapter_5_r1.pdf)
