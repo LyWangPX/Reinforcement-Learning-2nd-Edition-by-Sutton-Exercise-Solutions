@@ -6,12 +6,14 @@ It is the project trying to give an accurate answer to the 2nd edition of this l
 Let's roll'n out!
 
 # Chapter 3
+
 [CHAPTER 3 SOLUTION PDF HERE](https://github.com/LyWangPX/Solutions-of-Reinforcement-Learning-An-Introduction-Sutton-2nd/blob/master/Solutions_to_Reinforcement_Learning_by_Sutton_Chapter_3_r1.pdf)
 
 # Chapter 4
 Finished. 
 Ex4.7 Partially finished. 
 Dat DP question will burn my mind and macbook but I encourage any one who cares nothing about that trying to do yourself. Running through it forces you remember everything behind ordinary DP.:)
+
 [CHAPTER 4 SOLUTION PDF HERE](https://github.com/LyWangPX/Solutions-of-Reinforcement-Learning-An-Introduction-Sutton-2nd/blob/master/Solutions_to_Reinforcement_Learning_by_Sutton_Chapter_4_r1.pdf)
 
 # Chapter 5
@@ -21,5 +23,6 @@ Partially finished.
 
 # Chapter 6
 Finished without programming
+
 [CHAPTER 6 SOLUTION PDF HERE](https://github.com/LyWangPX/Solutions-of-Reinforcement-Learning-An-Introduction-Sutton-2nd/blob/master/Solutions_to_Reinforcement_Learning_by_Sutton_Chapter_6.pdf)
 
