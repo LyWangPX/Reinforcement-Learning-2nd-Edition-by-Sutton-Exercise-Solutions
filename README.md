@@ -26,3 +26,6 @@ Finished without programming
 
 [CHAPTER 6 SOLUTION PDF HERE](https://github.com/LyWangPX/Solutions-of-Reinforcement-Learning-An-Introduction-Sutton-2nd/blob/master/Solutions_to_Reinforcement_Learning_by_Sutton_Chapter_6.pdf)
 
+# Chapter 7
+Finished without programming and with one problem unsuccessed.
+[CHAPTER 6 SOLUTION PDF HERE](https://github.com/LyWangPX/Solutions-of-Reinforcement-Learning-An-Introduction-Sutton-2nd/blob/master/Solutions_to_Reinforcement_Learning_by_Sutton_Chapter_7.pdf)
