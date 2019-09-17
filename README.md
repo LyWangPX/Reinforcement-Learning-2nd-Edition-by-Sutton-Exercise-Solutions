@@ -31,6 +31,12 @@ Finished without programming
 [CHAPTER 6 SOLUTION PDF HERE](https://github.com/LyWangPX/Solutions-of-Reinforcement-Learning-An-Introduction-Sutton-2nd/blob/master/Solutions_to_Reinforcement_Learning_by_Sutton_Chapter_6_r2.pdf)
 
 # Chapter 7
-Finished without programming and with one problem unsuccessed.
+Finished without programming. Thanks for help from Zhiqi Pan.
 
 [CHAPTER 7 SOLUTION PDF HERE](https://github.com/LyWangPX/Solutions-of-Reinforcement-Learning-An-Introduction-Sutton-2nd/blob/master/Solutions_to_Reinforcement_Learning_by_Sutton_Chapter_7_r2.pdf)
+
+# Chapter 8
+Finished without programming. Plan on creating additional exercises to this Chapter because many materials are lack of practice.
+
+[CHAPTER 8 SOLUTION PDF HERE](https://github.com/LyWangPX/Solutions-of-Reinforcement-Learning-An-Introduction-Sutton-2nd/blob/master/Solutions_to_Reinforcement_Learning_by_Sutton_Chapter_8.pdf)
+
