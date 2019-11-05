@@ -9,6 +9,8 @@ ABOUT MISTAKES: Don't even expect the solutions be perfect, there are always mis
 
 Let's roll'n out!
 
+Due to multiple projects due in Dec, this project may have to wait a little bit for being updated. Collaborators are always welcomed!
+
 # Chapter 8
 Finished without programming. Plan on creating additional exercises to this Chapter because many materials are lack of practice.
 
