@@ -9,7 +9,7 @@ ABOUT MISTAKES: Don't even expect the solutions be perfect, there are always mis
 
 Let's roll'n out!
 
-[UPDATE Nov 5 2019] Due to multiple projects due simultaneously in Dec, this project may have to wait a little bit for being updated. Collaborators are always welcomed!
+[UPDATE DEC 2019] School projects all finished. I will go back working on Chapter 9. This is a long and tedious functional part of the reinforcement learning, and expect a little bit long time for me to update. Thanks for all people who have interests in this project.
 
 # Chapter 8
 Finished without programming. Plan on creating additional exercises to this Chapter because many materials are lack of practice.
