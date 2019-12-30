@@ -9,7 +9,10 @@ ABOUT MISTAKES: Don't even expect the solutions be perfect, there are always mis
 
 Let's roll'n out!
 
-[UPDATE DEC 2019] School projects all finished. I will go back working on Chapter 9. This is a long and tedious functional part of the reinforcement learning, and expect a little bit long time for me to update. Thanks for all people who have interests in this project.
+[UPDATE DEC 2019] Chapter 9 takes long time to read thoroughly but practices are surprisingly just a few. So after uploading the Chapter 9 pdf and I really do think I should go back to previous chapters to complete those programming practices.
+
+# Chapter 9
+[CHAPTER 9 SOLUTION PDF HERE]https://github.com/LyWangPX/Solutions-of-Reinforcement-Learning-An-Introduction-Sutton-2nd/blob/master/Solutions_to_Reinforcement_Learning_by_Sutton_Chapter_9.pdf
 
 # Chapter 8
 Finished without programming. Plan on creating additional exercises to this Chapter because many materials are lack of practice.
