@@ -13,6 +13,7 @@ Let's roll'n out!
 
 # Chapter 9
 Long chapter, short practices.
+
 [CHAPTER 9 SOLUTION PDF HERE](https://github.com/LyWangPX/Solutions-of-Reinforcement-Learning-An-Introduction-Sutton-2nd/blob/master/Solutions_to_Reinforcement_Learning_by_Sutton_Chapter_9.pdf)
 
 # Chapter 8
