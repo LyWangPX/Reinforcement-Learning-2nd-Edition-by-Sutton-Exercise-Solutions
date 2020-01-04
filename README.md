@@ -11,6 +11,11 @@ Let's roll'n out!
 
 [UPDATE DEC 2019] Chapter 9 takes long time to read thoroughly but practices are surprisingly just a few. So after uploading the Chapter 9 pdf and I really do think I should go back to previous chapters to complete those programming practices.
 
+# Chapter 10
+It is a substantial complement to Chapter 9. Still many open problems which are very interesting.
+
+[CHAPTER 10 SOLUTION PDF HERE](https://github.com/LyWangPX/Solutions-of-Reinforcement-Learning-An-Introduction-Sutton-2nd/blob/master/Solutions_to_Reinforcement_Learning_by_Sutton_Chapter_10.pdf)
+
 # Chapter 9
 Long chapter, short practices.
 
