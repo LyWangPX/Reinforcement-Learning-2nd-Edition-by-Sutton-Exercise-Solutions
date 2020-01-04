@@ -9,6 +9,8 @@ ABOUT MISTAKES: Don't even expect the solutions be perfect, there are always mis
 
 Let's roll'n out!
 
+[UPDATE JAN 2020] Chapter 10 is long but interesting! Move on!
+
 [UPDATE DEC 2019] Chapter 9 takes long time to read thoroughly but practices are surprisingly just a few. So after uploading the Chapter 9 pdf and I really do think I should go back to previous chapters to complete those programming practices.
 
 # Chapter 10
