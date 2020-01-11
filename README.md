@@ -9,9 +9,16 @@ ABOUT MISTAKES: Don't even expect the solutions be perfect, there are always mis
 
 Let's roll'n out!
 
+[UPDATE JAN 2020] Chapter 11 updated. One might have to read the referenced link to Sutton's paper in order to understand some part. Espeically how and why Emphatic-TD works.
+
 [UPDATE JAN 2020] Chapter 10 is long but interesting! Move on!
 
 [UPDATE DEC 2019] Chapter 9 takes long time to read thoroughly but practices are surprisingly just a few. So after uploading the Chapter 9 pdf and I really do think I should go back to previous chapters to complete those programming practices.
+
+# Chapter 11
+Major challenges about off-policy learning. Like Chapter 9, practices are short.
+
+[CHAPTER 10 SOLUTION PDF HERE](https://github.com/LyWangPX/Solutions-of-Reinforcement-Learning-An-Introduction-Sutton-2nd/blob/master/Solutions_to_Reinforcement_Learning_by_Sutton_Chapter_11.pdf)
 
 # Chapter 10
 It is a substantial complement to Chapter 9. Still many open problems which are very interesting.
