@@ -9,6 +9,9 @@ ABOUT MISTAKES: Don't even expect the solutions be perfect, there are always mis
 
 Let's roll'n out!
 
+[UPDATE JAN 2020] Chapter 12's ideas are not so hard but questions are very difficult. (most chanllenging one in this book
+). As far, I have finished up to Ex 12.5 and I think my answer of Ex 12.1 is the only valid one on the internet (or not, challenge welcomed!) But because later half is even more challenging (tedious when it is related to many infiite sums), I would release the final version little bit later.
+
 [UPDATE JAN 2020] Chapter 11 updated. One might have to read the referenced link to Sutton's paper in order to understand some part. Espeically how and why Emphatic-TD works.
 
 [UPDATE JAN 2020] Chapter 10 is long but interesting! Move on!
