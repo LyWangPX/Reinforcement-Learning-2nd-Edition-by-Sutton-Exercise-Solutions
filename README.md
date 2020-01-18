@@ -18,7 +18,7 @@ Let's roll'n out!
 # Chapter 11
 Major challenges about off-policy learning. Like Chapter 9, practices are short.
 
-[CHAPTER 11 SOLUTION PDF HERE](https://github.com/LyWangPX/Solutions-of-Reinforcement-Learning-An-Introduction-Sutton-2nd/blob/master/Chapter%2011/Solutions_to_Reinforcement_Learning_by_Sutton_Chapter_11.pdf)
+[CHAPTER 11 SOLUTION PDF HERE](https://github.com/LyWangPX/Solutions-of-Reinforcement-Learning-An-Introduction-Sutton-2nd/blob/master/Chapter%2011/Solutions_to_Reinforcement_Learning_by_Sutton_Chapter_11_r1.pdf)
 
 # Chapter 10
 It is a substantial complement to Chapter 9. Still many open problems which are very interesting.
@@ -55,7 +55,7 @@ Finished.
 Ex4.7 Partially finished. 
 Dat DP question will burn my mind and macbook but I encourage any one who cares nothing about that trying to do yourself. Running through it forces you remember everything behind ordinary DP.:)
 
-[CHAPTER 4 SOLUTION PDF HERE](https://github.com/LyWangPX/Solutions-of-Reinforcement-Learning-An-Introduction-Sutton-2nd/blob/master/Chapter%204/Solutions_to_Reinforcement_Learning_by_Sutton_Chapter_4_r1.pdf)
+[CHAPTER 4 SOLUTION PDF HERE](https://github.com/LyWangPX/Solutions-of-Reinforcement-Learning-An-Introduction-Sutton-2nd/blob/master/Chapter%204/Solutions_to_Reinforcement_Learning_by_Sutton_Chapter_4_r2.pdf)
 
 # Chapter 3
 
