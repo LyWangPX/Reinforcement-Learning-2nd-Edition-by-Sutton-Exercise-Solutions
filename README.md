@@ -1,4 +1,4 @@
-# Solutions to Reinforcement Learning An Introduction Sutton 2nd
+# Solutions to Reinforcement Learning 2nd Edition ([Original Book](https://www.amazon.co.jp/exec/obidos/ASIN/0262039249/hatena-blog-22/) by Richard S. Sutton,Andrew G. Barto)
 
 Welcome to this project. It is a tiny project where we don't do too much coding (yet) but we cooperate together to finish some tricky exercises from famous RL book Reinforcement Learning, An Introduction by Sutton. You may know that this book, especially the second version which was published last year, has no official solution manual. If you send your answer to the email address that the author leaved, you will be returned a fake answer sheet that is incomplete and old. So, why don't we write our own? Most of problems are mathematical proof in which one can learn the therotical backbone nicely but some of them are quite challenging coding problems. Both of them will be updated gradually but math will go first.
 
