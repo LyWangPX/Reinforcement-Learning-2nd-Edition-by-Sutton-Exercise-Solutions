@@ -18,46 +18,46 @@ Let's roll'n out!
 # Chapter 11
 Major challenges about off-policy learning. Like Chapter 9, practices are short.
 
-[CHAPTER 11 SOLUTION PDF HERE](https://github.com/LyWangPX/Solutions-of-Reinforcement-Learning-An-Introduction-Sutton-2nd/blob/master/Solutions_to_Reinforcement_Learning_by_Sutton_Chapter_11.pdf)
+[CHAPTER 11 SOLUTION PDF HERE](https://github.com/LyWangPX/Solutions-of-Reinforcement-Learning-An-Introduction-Sutton-2nd/blob/master/Chapter 11/Solutions_to_Reinforcement_Learning_by_Sutton_Chapter_11.pdf)
 
 # Chapter 10
 It is a substantial complement to Chapter 9. Still many open problems which are very interesting.
 
-[CHAPTER 10 SOLUTION PDF HERE](https://github.com/LyWangPX/Solutions-of-Reinforcement-Learning-An-Introduction-Sutton-2nd/blob/master/Solutions_to_Reinforcement_Learning_by_Sutton_Chapter_10.pdf)
+[CHAPTER 10 SOLUTION PDF HERE](https://github.com/LyWangPX/Solutions-of-Reinforcement-Learning-An-Introduction-Sutton-2nd/blob/master/Chapter 10/Solutions_to_Reinforcement_Learning_by_Sutton_Chapter_10.pdf)
 
 # Chapter 9
 Long chapter, short practices.
 
-[CHAPTER 9 SOLUTION PDF HERE](https://github.com/LyWangPX/Solutions-of-Reinforcement-Learning-An-Introduction-Sutton-2nd/blob/master/Solutions_to_Reinforcement_Learning_by_Sutton_Chapter_9.pdf)
+[CHAPTER 9 SOLUTION PDF HERE](https://github.com/LyWangPX/Solutions-of-Reinforcement-Learning-An-Introduction-Sutton-2nd/blob/master/Chapter 9/Solutions_to_Reinforcement_Learning_by_Sutton_Chapter_9.pdf)
 
 # Chapter 8
 Finished without programming. Plan on creating additional exercises to this Chapter because many materials are lack of practice.
 
-[CHAPTER 8 SOLUTION PDF HERE](https://github.com/LyWangPX/Solutions-of-Reinforcement-Learning-An-Introduction-Sutton-2nd/blob/master/Solutions_to_Reinforcement_Learning_by_Sutton_Chapter_8.pdf)
+[CHAPTER 8 SOLUTION PDF HERE](https://github.com/LyWangPX/Solutions-of-Reinforcement-Learning-An-Introduction-Sutton-2nd/blob/master/Chapter 8/Solutions_to_Reinforcement_Learning_by_Sutton_Chapter_8.pdf)
 
 # Chapter 7
 Finished without programming. Thanks for help from Zhiqi Pan.
 
-[CHAPTER 7 SOLUTION PDF HERE](https://github.com/LyWangPX/Solutions-of-Reinforcement-Learning-An-Introduction-Sutton-2nd/blob/master/Solutions_to_Reinforcement_Learning_by_Sutton_Chapter_7_r2.pdf)
+[CHAPTER 7 SOLUTION PDF HERE](https://github.com/LyWangPX/Solutions-of-Reinforcement-Learning-An-Introduction-Sutton-2nd/blob/master/Chapter 7/Solutions_to_Reinforcement_Learning_by_Sutton_Chapter_7_r2.pdf)
 
 # Chapter 6
 Finished without programming
 
-[CHAPTER 6 SOLUTION PDF HERE](https://github.com/LyWangPX/Solutions-of-Reinforcement-Learning-An-Introduction-Sutton-2nd/blob/master/Solutions_to_Reinforcement_Learning_by_Sutton_Chapter_6_r2.pdf)
+[CHAPTER 6 SOLUTION PDF HERE](https://github.com/LyWangPX/Solutions-of-Reinforcement-Learning-An-Introduction-Sutton-2nd/blob/master/Chapter 6/Solutions_to_Reinforcement_Learning_by_Sutton_Chapter_6_r2.pdf)
 
 # Chapter 5
 Partially finished.
 
-[CHAPTER 5 SOLUTION PDF HERE](https://github.com/LyWangPX/Solutions-of-Reinforcement-Learning-An-Introduction-Sutton-2nd/blob/master/Solutions_to_Reinforcement_Learning_by_Sutton_Chapter_5_r1.pdf)
+[CHAPTER 5 SOLUTION PDF HERE](https://github.com/LyWangPX/Solutions-of-Reinforcement-Learning-An-Introduction-Sutton-2nd/blob/master/Chapter 5/Solutions_to_Reinforcement_Learning_by_Sutton_Chapter_5_r1.pdf)
 
 # Chapter 4
 Finished. 
 Ex4.7 Partially finished. 
 Dat DP question will burn my mind and macbook but I encourage any one who cares nothing about that trying to do yourself. Running through it forces you remember everything behind ordinary DP.:)
 
-[CHAPTER 4 SOLUTION PDF HERE](https://github.com/LyWangPX/Solutions-of-Reinforcement-Learning-An-Introduction-Sutton-2nd/blob/master/Solutions_to_Reinforcement_Learning_by_Sutton_Chapter_4_r1.pdf)
+[CHAPTER 4 SOLUTION PDF HERE](https://github.com/LyWangPX/Solutions-of-Reinforcement-Learning-An-Introduction-Sutton-2nd/blob/master/Chapter 4/Solutions_to_Reinforcement_Learning_by_Sutton_Chapter_4_r1.pdf)
 
 # Chapter 3
 
-[CHAPTER 3 SOLUTION PDF HERE](https://github.com/LyWangPX/Solutions-of-Reinforcement-Learning-An-Introduction-Sutton-2nd/blob/master/Solutions_to_Reinforcement_Learning_by_Sutton_Chapter_3_r1.pdf)
+[CHAPTER 3 SOLUTION PDF HERE](https://github.com/LyWangPX/Solutions-of-Reinforcement-Learning-An-Introduction-Sutton-2nd/blob/master/Chapter 3/Solutions_to_Reinforcement_Learning_by_Sutton_Chapter_3_r1.pdf)
 
