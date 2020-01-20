@@ -1,8 +1,10 @@
 # Solutions of Reinforcement Learning 2nd Edition ([Original Book](https://www.amazon.co.jp/exec/obidos/ASIN/0262039249/hatena-blog-22/) by Richard S. Sutton,Andrew G. Barto)
 
-# Due to orignial author of the book, this repository will not update any answers after middle of Chapter 12 to provent students misusing the answers. Any future work will be private and please send requests to ericwang.usa@gmaill.com to get the full version. The published part will not be deleted since there are already many forks and clones online. 
 
-# Those students who are using this to complete your homework, stop it. They KNOW this repo and WILL catch you. This is written for serving millions of self-learners who do not have official guide or proper learning environment. 
+## Due to orignial author of the book, this repository will not update any answers after middle of Chapter 12 to provent students misusing the answers. Any future work will be private and please send requests to ericwang.usa@gmaill.com to get the full version. The published part will not be deleted since there are already many forks and clones online. 
+
+
+## Those students who are using this to complete your homework, stop it. They KNOW this repo and WILL catch you. This is written for serving millions of self-learners who do not have official guide or proper learning environment. 
 
 Welcome to this project. It is a tiny project where we don't do too much coding (yet) but we cooperate together to finish some tricky exercises from famous RL book Reinforcement Learning, An Introduction by Sutton. You may know that this book, especially the second version which was published last year, has no official solution manual. If you send your answer to the email address that the author leaved, you will be returned a fake answer sheet that is incomplete and old. So, why don't we write our own? Most of problems are mathematical proof in which one can learn the therotical backbone nicely but some of them are quite challenging coding problems. Both of them will be updated gradually but math will go first.
 
@@ -23,6 +25,11 @@ Let's roll'n out!
 [UPDATE JAN 2020] Chapter 10 is long but interesting! Move on!
 
 [UPDATE DEC 2019] Chapter 9 takes long time to read thoroughly but practices are surprisingly just a few. So after uploading the Chapter 9 pdf and I really do think I should go back to previous chapters to complete those programming practices.
+
+# Chapter 12
+Unfinished on purpose. EX12.1 is important for understanding later chapters.
+
+[CHAPTER 12 SOLUTION PDF HERE](https://github.com/LyWangPX/Solutions-of-Reinforcement-Learning-An-Introduction-Sutton-2nd/blob/master/Chapter%2011/Solutions_to_Reinforcement_Learning_by_Sutton_Chapter_12.pdf)
 
 # Chapter 11
 Major challenges about off-policy learning. Like Chapter 9, practices are short.
