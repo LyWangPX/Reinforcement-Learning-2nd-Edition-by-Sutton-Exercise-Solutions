@@ -1,13 +1,19 @@
 # Solutions of Reinforcement Learning 2nd Edition ([Original Book](https://www.amazon.co.jp/exec/obidos/ASIN/0262039249/hatena-blog-22/) by Richard S. Sutton,Andrew G. Barto)
 
+# Due to orignial author of the book, this repository will not update any answers after middle of Chapter 12 to provent students misusing the answers. Any future work will be private and please send requests to ericwang.usa@gmaill.com to get the full version. The published part will not be deleted since there are already many forks and clones online. 
+
+# Those students who are using this to complete your homework, stop it. They KNOW this repo and WILL catch you. This is written for serving millions of self-learners who do not have official guide or proper learning environment. 
+
 Welcome to this project. It is a tiny project where we don't do too much coding (yet) but we cooperate together to finish some tricky exercises from famous RL book Reinforcement Learning, An Introduction by Sutton. You may know that this book, especially the second version which was published last year, has no official solution manual. If you send your answer to the email address that the author leaved, you will be returned a fake answer sheet that is incomplete and old. So, why don't we write our own? Most of problems are mathematical proof in which one can learn the therotical backbone nicely but some of them are quite challenging coding problems. Both of them will be updated gradually but math will go first.
 
-Main author would be me and current main cooperater is Zhiqi Pan. 
+Main author would be me and current main cooperater is Zhiqi Pan (quitted now, sad). 
 
 ABOUT MISTAKES: Don't even expect the solutions be perfect, there are always mistakes. And, sometimes the problems are just open. Show your ideas and question them in 'issues' at any time!
 
 
 Let's roll'n out!
+
+[UPDATE JAN 2020] Future works will be stopped. Unfinished work of Chapter 12 is published and later work on Chapter 13 and 14 are hidden from public.
 
 [UPDATE JAN 2020] Chapter 12's ideas are not so hard but questions are very difficult. (most chanllenging one in this book
 ). As far, I have finished up to Ex 12.5 and I think my answer of Ex 12.1 is the only valid one on the internet (or not, challenge welcomed!) But because later half is even more challenging (tedious when it is related to many infiite sums), I would release the final version little bit later.
