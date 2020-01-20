@@ -29,7 +29,7 @@ Let's roll'n out!
 # Chapter 12
 Unfinished on purpose. EX12.1 is important for understanding later chapters.
 
-[CHAPTER 12 SOLUTION PDF HERE](https://github.com/LyWangPX/Solutions-of-Reinforcement-Learning-An-Introduction-Sutton-2nd/blob/master/Chapter%2011/Solutions_to_Reinforcement_Learning_by_Sutton_Chapter_12.pdf)
+[CHAPTER 12 SOLUTION PDF HERE](https://github.com/LyWangPX/Reinforcement-Learning-2nd-Edition-by-Sutton-Exercise-Solutions/tree/master/Chapter%2012)
 
 # Chapter 11
 Major challenges about off-policy learning. Like Chapter 9, practices are short.
