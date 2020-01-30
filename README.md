@@ -1,8 +1,9 @@
 # Solutions of Reinforcement Learning 2nd Edition ([Original Book](https://www.amazon.co.jp/exec/obidos/ASIN/0262039249/hatena-blog-22/) by Richard S. Sutton,Andrew G. Barto)
 
 
-## Due to requests from orignial author of the book, this repository will not update any answers after middle of Chapter 12 to prevent students misusing the answers. Any future work will be private and please send requests to ericwang.usa@gmaill.com to get the full version. The published part will not be deleted since there are already many forks and clones online. 
+## Right now I have not yet finished the rest of Chapter 12. Due to many learners' requests, I will continue working on the solution but please wait for further notification. I plan to finish it in Feburary. 
 
+## I had some issue from original author but I dont care any more. This project will be finished. But I have to warn:
 
 ## Those students who are using this to complete your homework, stop it. They KNOW this repo and WILL catch you. This is written for serving millions of self-learners who do not have official guide or proper learning environment. 
 
