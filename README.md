@@ -21,6 +21,8 @@ ABOUT MISTAKES: Don't even expect the solutions be perfect, there are always mis
 
 Let's roll'n out!
 
+[UPDATE JAN 2020] Future works will NOT be stopped. I will try to finish it in FEB 2020.
+
 [UPDATE JAN 2020] Future works will be stopped. Unfinished work of Chapter 12 is published and later work on Chapter 13 and 14 are hidden from public.
 
 [UPDATE JAN 2020] Chapter 12's ideas are not so hard but questions are very difficult. (most chanllenging one in this book
