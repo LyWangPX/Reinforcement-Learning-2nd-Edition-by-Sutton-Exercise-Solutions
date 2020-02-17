@@ -14,7 +14,7 @@ Main author would be me and current main cooperater is **Jean Wissam Dupin**, an
 Jean's Work (Error Fix):
 
 Chapter 3:
-Ex 3.8, 3.14, 3.23, 3.24, 3.26, 3.29
+Ex 3.8, 3.11, 3.14, 3.23, 3.24, 3.26, 3.29
 
 ABOUT MISTAKES: Don't even expect the solutions be perfect, there are always mistakes. And, sometimes the problems are just open. Show your ideas and question them in 'issues' at any time!
 
