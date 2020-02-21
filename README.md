@@ -79,9 +79,9 @@ Finished.
 Ex4.7 Partially finished. 
 Dat DP question will burn my mind and macbook but I encourage any one who cares nothing about that trying to do yourself. Running through it forces you remember everything behind ordinary DP.:)
 
-[CHAPTER 4 SOLUTION PDF HERE](https://github.com/LyWangPX/Solutions-of-Reinforcement-Learning-An-Introduction-Sutton-2nd/blob/master/Chapter%204/Solutions_to_Reinforcement_Learning_by_Sutton_Chapter_4_r2.pdf)
+[CHAPTER 4 SOLUTION PDF HERE](https://github.com/LyWangPX/Solutions-of-Reinforcement-Learning-An-Introduction-Sutton-2nd/blob/master/Chapter%204/Solutions_to_Reinforcement_Learning_by_Sutton_Chapter_4_r5.pdf)
 
 # Chapter 3
 
-[CHAPTER 3 SOLUTION PDF HERE](https://github.com/LyWangPX/Solutions-of-Reinforcement-Learning-An-Introduction-Sutton-2nd/blob/master/Chapter%203/Solutions_to_Reinforcement_Learning_by_Sutton_Chapter_3_r3.pdf)
+[CHAPTER 3 SOLUTION PDF HERE](https://github.com/LyWangPX/Solutions-of-Reinforcement-Learning-An-Introduction-Sutton-2nd/blob/master/Chapter%203/Solutions_to_Reinforcement_Learning_by_Sutton_Chapter_3_r4.pdf)
 
