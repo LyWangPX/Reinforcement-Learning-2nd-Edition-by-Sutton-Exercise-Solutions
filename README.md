@@ -14,7 +14,7 @@ Main author would be me and current main cooperater is **Jean Wissam Dupin**, an
 Jean's Work (Error Fix):
 
 Chapter 3:
-Ex 3.8, 3.11, 3.14, 3.23, 3.24, 3.26, 3.29
+Ex 3.8, 3.11, 3.14, 3.23, 3.24, 3.26, 3.28, 3.29, 4.5
 
 ABOUT MISTAKES: Don't even expect the solutions be perfect, there are always mistakes. And, sometimes the problems are just open. Show your ideas and question them in 'issues' at any time!
 
@@ -83,5 +83,5 @@ Dat DP question will burn my mind and macbook but I encourage any one who cares 
 
 # Chapter 3
 
-[CHAPTER 3 SOLUTION PDF HERE](https://github.com/LyWangPX/Solutions-of-Reinforcement-Learning-An-Introduction-Sutton-2nd/blob/master/Chapter%203/Solutions_to_Reinforcement_Learning_by_Sutton_Chapter_3_r4.pdf)
+[CHAPTER 3 SOLUTION PDF HERE](https://github.com/LyWangPX/Solutions-of-Reinforcement-Learning-An-Introduction-Sutton-2nd/blob/master/Chapter%203/Solutions_to_Reinforcement_Learning_by_Sutton_Chapter_3_r5.pdf)
 
