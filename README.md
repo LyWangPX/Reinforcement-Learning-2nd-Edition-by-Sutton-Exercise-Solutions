@@ -1,7 +1,7 @@
 # Solutions of Reinforcement Learning 2nd Edition ([Original Book](https://www.amazon.co.jp/exec/obidos/ASIN/0262039249/hatena-blog-22/) by Richard S. Sutton,Andrew G. Barto)
 
 
-## Right now I have not yet finished the rest of Chapter 12. Due to many learners' requests, I will continue working on the solution but please wait for further notification. I plan to finish it in Feburary. 
+## Right now I have not yet finished the rest of Chapter 12. Due to many learners' requests, I will continue working on the solution but please wait for further notification. I plan to finish it in March. 
 
 ## I had some issue from original author but I dont care any more. This project will be finished. But I have to warn:
 
@@ -21,9 +21,9 @@ ABOUT MISTAKES: Don't even expect the solutions be perfect, there are always mis
 
 Let's roll'n out!
 
-[UPDATE JAN 2020] Future works will NOT be stopped. I will try to finish it in FEB 2020.
+[UPDATE MAR 2020] Due to multiple interviews ( it is interview season in japan ( despite the virus!)), I have to prospone the plan of update to March.
 
-[UPDATE JAN 2020] Future works will be stopped. Unfinished work of Chapter 12 is published and later work on Chapter 13 and 14 are hidden from public.
+[UPDATE JAN 2020] Future works will NOT be stopped. I will try to finish it in FEB 2020.
 
 [UPDATE JAN 2020] Chapter 12's ideas are not so hard but questions are very difficult. (most chanllenging one in this book
 ). As far, I have finished up to Ex 12.5 and I think my answer of Ex 12.1 is the only valid one on the internet (or not, challenge welcomed!) But because later half is even more challenging (tedious when it is related to many infiite sums), I would release the final version little bit later.
