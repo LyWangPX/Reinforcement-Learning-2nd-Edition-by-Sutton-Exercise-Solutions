@@ -16,6 +16,10 @@ Jean's Work (Error Fix):
 Chapter 3:
 Ex 3.8, 3.11, 3.14, 3.23, 3.24, 3.26, 3.28, 3.29, 4.5
 
+Other people (Error Fix):
+
+Ex 6.11 qihuazhong
+
 ABOUT MISTAKES: Don't even expect the solutions be perfect, there are always mistakes. And, sometimes the problems are just open. Show your ideas and question them in 'issues' at any time!
 
 
