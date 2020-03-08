@@ -11,6 +11,8 @@ Welcome to this project. It is a tiny project where we don't do too much coding 
 
 Main author would be me and current main cooperater is **Jean Wissam Dupin**, and before was Zhiqi Pan (quitted now). 
 
+### Main Contributers for Error Fixing:
+
 Jean's Work (Error Fix):
 
 Chapter 3:
@@ -20,7 +22,11 @@ Other people (Error Fix):
 
 Ex 6.11 qihuazhong
 
-ABOUT MISTAKES: Don't even expect the solutions be perfect, there are always mistakes. And, sometimes the problems are just open. Show your ideas and question them in 'issues' at any time!
+Ex 10.2  SHITIANYU-hue 
+
+### ABOUT MISTAKES:
+
+Don't even expect the solutions be perfect, there are always mistakes. And, sometimes the problems are just open. Show your ideas and question them in 'issues' at any time!
 
 
 Let's roll'n out!
@@ -51,7 +57,7 @@ Major challenges about off-policy learning. Like Chapter 9, practices are short.
 # Chapter 10
 It is a substantial complement to Chapter 9. Still many open problems which are very interesting.
 
-[CHAPTER 10 SOLUTION PDF HERE](https://github.com/LyWangPX/Solutions-of-Reinforcement-Learning-An-Introduction-Sutton-2nd/blob/master/Chapter%2010/Solutions_to_Reinforcement_Learning_by_Sutton_Chapter_10.pdf)
+[CHAPTER 10 SOLUTION PDF HERE](https://github.com/LyWangPX/Solutions-of-Reinforcement-Learning-An-Introduction-Sutton-2nd/blob/master/Chapter%2010/Solutions_to_Reinforcement_Learning_by_Sutton_Chapter_10_r2.pdf)
 
 # Chapter 9
 Long chapter, short practices.
