@@ -20,7 +20,7 @@ Ex 3.8, 3.11, 3.14, 3.23, 3.24, 3.26, 3.28, 3.29, 4.5
 
 Other people (Error Fix):
 
-Ex 6.11 qihuazhong
+Ex 6.11, 5.11 qihuazhong (he likes .11 problems so far)
 
 Ex 10.2  SHITIANYU-hue 
 
@@ -82,7 +82,7 @@ Finished without programming
 # Chapter 5
 Partially finished.
 
-[CHAPTER 5 SOLUTION PDF HERE](https://github.com/LyWangPX/Solutions-of-Reinforcement-Learning-An-Introduction-Sutton-2nd/blob/master/Chapter%205/Solutions_to_Reinforcement_Learning_by_Sutton_Chapter_5_r1.pdf)
+[CHAPTER 5 SOLUTION PDF HERE](https://github.com/LyWangPX/Solutions-of-Reinforcement-Learning-An-Introduction-Sutton-2nd/blob/master/Chapter%205/Solutions_to_Reinforcement_Learning_by_Sutton_Chapter_5_r2.pdf)
 
 # Chapter 4
 Finished. 
