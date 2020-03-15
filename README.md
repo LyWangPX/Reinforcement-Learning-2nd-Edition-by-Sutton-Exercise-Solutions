@@ -13,15 +13,16 @@ Main author would be me and current main cooperater is **Jean Wissam Dupin**, an
 
 ### Main Contributers for Error Fixing:
 
-Jean's Work (Error Fix):
+### Jean's Work (Error Fix):
 
 Chapter 3:
 Ex 3.8, 3.11, 3.14, 3.23, 3.24, 3.26, 3.28, 3.29, 4.5
 
-QihuaZhong's work (Error fix, analysis)
+### QihuaZhong's work (Error fix, analysis)
+
 Ex 6.11, 5.11, 10.5, 10.6
 
-Other people (Error Fix):
+### Other people (Error Fix):
 
 Ex 10.2  SHITIANYU-hue 
 
@@ -32,7 +33,7 @@ Don't even expect the solutions be perfect, there are always mistakes. And, some
 
 Let's roll'n out!
 
-[UPDATE MAR 2020] Due to multiple interviews ( it is interview season in japan ( despite the virus!)), I have to prospone the plan of update to March.
+[UPDATE MAR 2020] **Due to multiple interviews** ( it is interview season in japan ( despite the **virus**!)), I have to prospone the plan of update to March or later, depending how far I could go. (That means I am doing leetcode-ish stuff every day)
 
 [UPDATE JAN 2020] Future works will NOT be stopped. I will try to finish it in FEB 2020.
 
