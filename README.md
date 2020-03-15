@@ -18,9 +18,10 @@ Jean's Work (Error Fix):
 Chapter 3:
 Ex 3.8, 3.11, 3.14, 3.23, 3.24, 3.26, 3.28, 3.29, 4.5
 
-Other people (Error Fix):
+QihuaZhong's work (Error fix, analysis)
+Ex 6.11, 5.11, 10.5, 10.6
 
-Ex 6.11, 5.11 qihuazhong (he likes .11 problems so far)
+Other people (Error Fix):
 
 Ex 10.2  SHITIANYU-hue 
 
