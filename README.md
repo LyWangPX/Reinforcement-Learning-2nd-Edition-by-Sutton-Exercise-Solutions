@@ -3,8 +3,6 @@
 
 ## Right now I have not yet finished the rest of Chapter 12. Due to many learners' requests, I will continue working on the solution but please wait for further notification. I plan to finish it in March. 
 
-## I had some issue from original author but I dont care any more. This project will be finished. But I have to warn:
-
 ## Those students who are using this to complete your homework, stop it. They KNOW this repo and WILL catch you. This is written for serving millions of self-learners who do not have official guide or proper learning environment. And, Of Course, as a personal project, it has ERRORS. (contribute to issues if you find it though). BE AWARE!
 
 Welcome to this project. It is a tiny project where we don't do too much coding (yet) but we cooperate together to finish some tricky exercises from famous RL book Reinforcement Learning, An Introduction by Sutton. You may know that this book, especially the second version which was published last year, has no official solution manual. If you send your answer to the email address that the author leaved, you will be returned a fake answer sheet that is incomplete and old. So, why don't we write our own? Most of problems are mathematical proof in which one can learn the therotical backbone nicely but some of them are quite challenging coding problems. Both of them will be updated gradually but math will go first.
@@ -33,7 +31,7 @@ Don't even expect the solutions be perfect, there are always mistakes. And, some
 
 Let's roll'n out!
 
-[UPDATE MAR 2020] **Due to multiple interviews** ( it is interview season in japan ( despite the **virus**!)), I have to prospone the plan of update to March or later, depending how far I could go. (That means I am doing leetcode-ish stuff every day)
+[UPDATE MAR 2020] **Due to multiple interviews** ( it is interview season in japan ( despite the **virus**!)), I have to postpone the plan of update to March or later, depending how far I could go. (That means I am doing leetcode-ish stuff every day)
 
 [UPDATE JAN 2020] Future works will NOT be stopped. I will try to finish it in FEB 2020.
 
