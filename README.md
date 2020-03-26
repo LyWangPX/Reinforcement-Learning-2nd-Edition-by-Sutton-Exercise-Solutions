@@ -30,8 +30,9 @@ Don't even expect the solutions be perfect, there are always mistakes. And, some
 
 
 Let's roll'n out!
+**[UPDATE MAR 2020] Chapter 12 almost finished and is updated, except the last 2 questions. One for dutch trace and one for double Q-learning. They are tricker than other exercises and I will update them little bit later. Please share your ideas by opening issues if you already hold a valid solution.**
 
-[UPDATE MAR 2020] **Due to multiple interviews** ( it is interview season in japan ( despite the **virus**!)), I have to postpone the plan of update to March or later, depending how far I could go. (That means I am doing leetcode-ish stuff every day)
+[UPDATE MAR 2020] Due to multiple interviews ( it is interview season in japan ( despite the **virus**!)), I have to postpone the plan of update to March or later, depending how far I could go. (That means I am doing leetcode-ish stuff every day)
 
 [UPDATE JAN 2020] Future works will NOT be stopped. I will try to finish it in FEB 2020.
 
@@ -45,9 +46,10 @@ Let's roll'n out!
 [UPDATE DEC 2019] Chapter 9 takes long time to read thoroughly but practices are surprisingly just a few. So after uploading the Chapter 9 pdf and I really do think I should go back to previous chapters to complete those programming practices.
 
 # Chapter 12
-Unfinished on purpose. EX12.1 is important for understanding later chapters.
 
-[CHAPTER 12 SOLUTION PDF HERE](https://github.com/LyWangPX/Reinforcement-Learning-2nd-Edition-by-Sutton-Exercise-Solutions/tree/master/Chapter%2012)
+[Updated March 27] Almost finished. 
+
+[CHAPTER 12 SOLUTION PDF HERE](https://github.com/LyWangPX/Solutions-of-Reinforcement-Learning-An-Introduction-Sutton-2nd/blob/master/Chapter%2012/Solutions_to_Reinforcement_Learning_by_Sutton_Chapter_12_r1.pdf)
 
 # Chapter 11
 Major challenges about off-policy learning. Like Chapter 9, practices are short.
