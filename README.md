@@ -33,7 +33,7 @@ Let's roll'n out!
 
 ### UPDATE LOG:
 
-**[UPDATE MAR 2020] Chapter 12 almost finished and is updated, except the last 2 questions. One for dutch trace and one for double Q-learning. They are tricker than other exercises and I will update them little bit later. Please share your ideas by opening issues if you already hold a valid solution.**
+**[UPDATE MAR 2020] Chapter 12 almost finished and is updated, except for the last 2 questions. One for dutch trace and one for double Q-learning. They are tricker than other exercises and I will update them little bit later. Please share your ideas by opening issues if you already hold a valid solution.**
 
 [UPDATE MAR 2020] Due to multiple interviews ( it is interview season in japan ( despite the **virus**!)), I have to postpone the plan of update to March or later, depending how far I could go. (That means I am doing leetcode-ish stuff every day)
 
