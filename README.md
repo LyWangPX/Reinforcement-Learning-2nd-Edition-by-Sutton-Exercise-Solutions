@@ -1,5 +1,8 @@
 # Solutions of Reinforcement Learning 2nd Edition ([Original Book](https://www.amazon.co.jp/exec/obidos/ASIN/0262039249/hatena-blog-22/) by Richard S. Sutton,Andrew G. Barto)
 
+### I was using a little bit older version of the book, which resulted some conflicts in Chapter 10
+### I am rewriting some of the answers in new version, please refer to incomplete-mind for the correct version.
+### For now, be aware.
 
 ### Chapter 12 Updated. See Log below for detail. 
 
