@@ -1,9 +1,5 @@
 # Solutions of Reinforcement Learning 2nd Edition ([Original Book](https://www.amazon.co.jp/exec/obidos/ASIN/0262039249/hatena-blog-22/) by Richard S. Sutton,Andrew G. Barto)
 
-### I was using a little bit older version of the book, which resulted some conflicts in Chapter 10
-### I am rewriting some of the answers in new version, please refer to incomplete-mind for the correct version.
-### For now, be aware.
-
 ### Chapter 12 Updated. See Log below for detail. 
 
 ### Those students who are using this to complete your homework, stop it. This is written for serving millions of self-learners who do not have official guide or proper learning environment. And, Of Course, as a personal project, it has ERRORS. (Contribute to issues if you find any).
@@ -26,6 +22,8 @@ Ex 6.11, 5.11, 10.5, 10.6
 ### Other people (Error Fix):
 
 Ex 10.2  SHITIANYU-hue 
+Ex 10.4 luigift 
+Ex 10.6 10.7 luigift and Mohammad Salehi 
 
 ### ABOUT MISTAKES:
 
@@ -65,7 +63,7 @@ Major challenges about off-policy learning. Like Chapter 9, practices are short.
 # Chapter 10
 It is a substantial complement to Chapter 9. Still many open problems which are very interesting.
 
-[CHAPTER 10 SOLUTION PDF HERE](https://github.com/LyWangPX/Solutions-of-Reinforcement-Learning-An-Introduction-Sutton-2nd/blob/master/Chapter%2010/Solutions_to_Reinforcement_Learning_by_Sutton_Chapter_10_r3.pdf)
+[CHAPTER 10 SOLUTION PDF HERE](https://github.com/LyWangPX/Solutions-of-Reinforcement-Learning-An-Introduction-Sutton-2nd/blob/master/Chapter%2010/Solutions_to_Reinforcement_Learning_by_Sutton_Chapter_10_r6.pdf)
 
 # Chapter 9
 Long chapter, short practices.
