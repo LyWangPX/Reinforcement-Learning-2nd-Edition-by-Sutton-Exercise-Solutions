@@ -27,7 +27,7 @@ Ex 10.6 10.7 luigift and Mohammad Salehi
 
 ### ABOUT MISTAKES:
 
-Don't even expect the solutions be perfect, there are always mistakes. And, sometimes the problems are just open. Show your ideas and question them in 'issues' at any time!
+Don't even expect the solutions be perfect, there are always mistakes. Especially in Chapter 3, where my mind was in a rush there. And, sometimes the problems are just open. Show your ideas and question them in 'issues' at any time!
 
 
 Let's roll'n out!
@@ -99,5 +99,5 @@ Dat DP question will burn my mind and macbook but I encourage any one who cares 
 
 # Chapter 3
 
-[CHAPTER 3 SOLUTION PDF HERE](https://github.com/LyWangPX/Solutions-of-Reinforcement-Learning-An-Introduction-Sutton-2nd/blob/master/Chapter%203/Solutions_to_Reinforcement_Learning_by_Sutton_Chapter_3_r8.pdf)
+[CHAPTER 3 SOLUTION PDF HERE](https://github.com/LyWangPX/Solutions-of-Reinforcement-Learning-An-Introduction-Sutton-2nd/blob/master/Chapter%203/Solutions_to_Reinforcement_Learning_by_Sutton_Chapter_3_r9.pdf)
 
