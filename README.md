@@ -22,19 +22,18 @@ Ex 4.7 Code(in Julia)
 Chapter 3:
 Ex 3.8, 3.11, 3.14, 3.23, 3.24, 3.26, 3.28, 3.29, 4.5
 
-### QihuaZhong's work (Error fix, analysis)
+### QihuaZhong's Work (Error fix, analysis)
 
 Ex 6.11, 5.11, 10.5, 10.6
 
-### luigift's word (Error fix, algorithm contribution)
+### luigift's Work (Error fix, algorithm contribution)
 Ex 10.4 10.6 10.7
 Ex 12.1 (alternative solution)
 
 ### Other people (Error Fix):
 
 Ex 10.2  SHITIANYU-hue 
-Ex 10.4 luigift 
-Ex 10.6 10.7 luigift and Mohammad Salehi 
+Ex 10.6 10.7 Mohammad Salehi 
 
 ### ABOUT MISTAKES:
 
