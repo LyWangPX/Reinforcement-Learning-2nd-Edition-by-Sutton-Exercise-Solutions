@@ -10,6 +10,13 @@ Main author would be me and current main cooperater is **Jean Wissam Dupin**, an
 
 ### Main Contributers for Error Fixing:
 
+### burmecia's Work (Error Fix and code contribution)
+Chapter 3: 
+Ex 3.4, 3.5, 3.6, 3.9, 3.19
+
+Chapter4:
+Ex 4.7 Code(in Julia)
+
 ### Jean's Work (Error Fix):
 
 Chapter 3:
