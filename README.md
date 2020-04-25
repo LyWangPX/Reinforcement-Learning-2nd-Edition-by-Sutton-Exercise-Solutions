@@ -75,7 +75,7 @@ Major challenges about off-policy learning. Like Chapter 9, practices are short.
 # Chapter 10
 It is a substantial complement to Chapter 9. Still many open problems which are very interesting.
 
-[CHAPTER 10 SOLUTION PDF HERE](https://github.com/LyWangPX/Solutions-of-Reinforcement-Learning-An-Introduction-Sutton-2nd/blob/master/Chapter%2010/Solutions_to_Reinforcement_Learning_by_Sutton_Chapter_10_r6.pdf)
+[CHAPTER 10 SOLUTION PDF HERE](https://github.com/LyWangPX/Solutions-of-Reinforcement-Learning-An-Introduction-Sutton-2nd/blob/master/Chapter%2010/Solutions_to_Reinforcement_Learning_by_Sutton_Chapter_10_r7.pdf)
 
 # Chapter 9
 Long chapter, short practices.
