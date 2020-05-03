@@ -85,7 +85,7 @@ S = Array{Tuple{Int64,Int64,Int64,Int64}}(undef, 10^6)
 A = Array{Int64}(undef, 10^6)
 B = Array{Float64}(undef, 10^6)
 
-function make_trajectory(ε)
+function make_trajectory(ε; noise=true)
     t = 1
 
     # start state
@@ -102,7 +102,7 @@ function make_trajectory(ε)
         # otherwise choose randomly, and save its probility
         πa = π[s...]
         πa_valid = πa in acts
-        if rand() > ε
+        if rand() >= ε
             if πa_valid
                 a = πa
                 b = 1 - ε + ε / num_acts
@@ -113,6 +113,14 @@ function make_trajectory(ε)
         else
             a = sample(acts)
             b = (πa_valid ? ε : 1) / num_acts
+        end
+
+        # add some noise
+        # with probability 0.1 at each time step the velocity increments are
+        # both zero, independently of the intended increments
+        if noise && rand() < 0.1
+            a = 1
+            b = 0.1
         end
 
         A[t] = a
@@ -175,7 +183,7 @@ end
 # print several trajectories following the optimal policy
 function output_trajectories()
     for i = 1:3
-        T = make_trajectory(0.0)
+        T = make_trajectory(0.0, noise=false)
         println("\noptimal trajectory #$(i):")
         println("S: ", S[1:T])
         println("A: ", A[1:T])
