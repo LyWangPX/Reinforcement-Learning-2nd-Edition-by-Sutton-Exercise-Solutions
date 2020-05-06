@@ -95,7 +95,7 @@ Finished without programming. Thanks for help from Zhiqi Pan.
 # Chapter 6
 Finished without programming
 
-[CHAPTER 6 SOLUTION PDF HERE](https://github.com/LyWangPX/Solutions-of-Reinforcement-Learning-An-Introduction-Sutton-2nd/blob/master/Chapter%206/Solutions_to_Reinforcement_Learning_by_Sutton_Chapter_6_r4.pdf)
+[CHAPTER 6 SOLUTION PDF HERE](https://github.com/LyWangPX/Solutions-of-Reinforcement-Learning-An-Introduction-Sutton-2nd/blob/master/Chapter%206/Solutions_to_Reinforcement_Learning_by_Sutton_Chapter_6_rx.pdf)
 
 # Chapter 5
 Partially finished.
