@@ -65,7 +65,7 @@ Let's roll'n out!
 
 [Updated March 27] Almost finished. 
 
-[CHAPTER 12 SOLUTION PDF HERE](https://github.com/LyWangPX/Solutions-of-Reinforcement-Learning-An-Introduction-Sutton-2nd/blob/master/Chapter%2012/Solutions_to_Reinforcement_Learning_by_Sutton_Chapter_12_r2.pdf)
+[CHAPTER 12 SOLUTION PDF HERE](https://github.com/LyWangPX/Solutions-of-Reinforcement-Learning-An-Introduction-Sutton-2nd/blob/master/Chapter%2012/Solutions_to_Reinforcement_Learning_by_Sutton_Chapter_12_rx.pdf)
 
 # Chapter 11
 Major challenges about off-policy learning. Like Chapter 9, practices are short.
