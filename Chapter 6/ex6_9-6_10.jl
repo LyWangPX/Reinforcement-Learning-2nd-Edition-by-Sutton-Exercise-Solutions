@@ -20,26 +20,10 @@ wind[4:9] .= 1
 wind[7:8] .= 2
 wind_offset = 0:0
 
-# ============================================================
-# uncomment individual block below to run different exercises
-#
-# example 6.5
-act_len = 4
+# global Q array
+Q = Array{Float64}
 
-# exercise 6.9
-#act_len = 8
-
-# exercise 6.9a
-#act_len = 9
-
-# exercise 6.10
-#act_len = 8
-#wind_offset = -1:1
-# ============================================================
-
-# initialise Q
-# state is a tuple: (row, col)
-Q = zeros(Float64, rows, cols, act_len)
+episode_num = 300
 
 function next_state(s, a)
     s′ = copy(s)
@@ -75,7 +59,7 @@ function next_state(s, a)
 end
 
 # choose action using ε-greedy policy
-function choose_action(s; ε = ε)
+function choose_action(s, act_len; ε = ε)
     if rand() >= ε
         argmax(Q[s[1], s[2], :])
     else
@@ -84,7 +68,7 @@ function choose_action(s; ε = ε)
 end
 
 # take action, observe next state and get next action using ε-greedy policy
-function next_state_action(s, a; ε = ε)
+function next_state_action(s, a, act_len; ε = ε)
     # take action, get next state
     s′ = next_state(s, a)
 
@@ -93,22 +77,34 @@ function next_state_action(s, a; ε = ε)
     s′[2] = clamp(s′[2], 1, cols)
 
     # choose A′ from S′
-    a′ = choose_action(s′, ε = ε)
+    a′ = choose_action(s′, act_len, ε = ε)
 
     (s′, a′)
 end
 
-function main()
-    episode_num = 2 * 10^5
+# output an optimal tracjectory using greedy policy
+function output_optimal_tractory()
+    s, a = start, choose_action(start, act_len, ε = 0)
+    while s != goal
+        println("S: $(s), A: $(actions[a])")
+        s, a = next_state_action(s, a, act_len, ε = 0)
+    end
+end
+
+function game(act_len)
+    global Q
+
+    # initialise Q
+    Q = zeros(Float64, rows, cols, act_len)
+
+    hist = zeros(Int64, episode_num)
     r = -1
 
     for i = 1:episode_num
-        if i % 1000 == 0 println("episode $(i)") end
-
-        s = start
-        a = choose_action(s)
+        step = 0
+        s, a = start, choose_action(start, act_len)
         while s != goal
-            s′, a′ = next_state_action(s, a)
+            s′, a′ = next_state_action(s, a, act_len)
 
             # upate Q[sa]
             sa = CartesianIndex(Tuple([s..., a]))
@@ -116,20 +112,52 @@ function main()
             Q[sa] += α * (r + γ * Q[s′a′] - Q[sa])
 
             s, a = s′, a′
+            step += 1
         end
+
+        # cap extream values in the first several episodes
+        hist[i] = min(step, 300)
     end
 
-    println("finished.\n")
-    println("an optimal tracjectory:\n")
+    reshape(hist, 1, :)
+end
 
-    s = start
-    a = choose_action(s, ε = 0)
-    while s != goal
-        println("S: $(s), A: $(actions[a])")
-        s, a = next_state_action(s, a, ε = 0)
+function main()
+    global wind_offset
+
+    hist_4 = Array{Float64,2}(undef, 0, episode_num)
+    hist_8 = Array{Float64,2}(undef, 0, episode_num)
+    hist_9 = Array{Float64,2}(undef, 0, episode_num)
+
+    for i = 1:200
+        hist_4 = vcat(hist_4, game(4))
+        hist_8 = vcat(hist_8, game(8))
+        hist_9 = vcat(hist_9, game(9))
     end
+
+    # exercise 6.10
+    wind_offset = -1:1
+    hist_8_rand_wind = Array{Float64,2}(undef, 0, episode_num)
+    for i = 1:200
+        hist_8_rand_wind = vcat(hist_8_rand_wind, game(8))
+    end
+
+    hist_4 = mean(hist_4, dims = 1)
+    hist_8 = mean(hist_8, dims = 1)
+    hist_9 = mean(hist_9, dims = 1)
+    hist_8_rand_wind = mean(hist_8_rand_wind, dims = 1)
+
+    p = plot(
+        title = "4 vs 8 vs 9 action space with random wind",
+        xlabel = "Episodes (averaged over 200 experiments)",
+        ylabel = "Steps",
+        legend = :topright,
+    )
+    plot!(p, hist_4[1, :], label = "actions=4")
+    plot!(p, hist_8[1, :], label = "actions=8")
+    plot!(p, hist_9[1, :], label = "actions=9")
+    plot!(p, hist_8_rand_wind[1, :], label = "actions=8, random wind")
 end
 
 # uncomment the main function below to start learning
-
 #main()
