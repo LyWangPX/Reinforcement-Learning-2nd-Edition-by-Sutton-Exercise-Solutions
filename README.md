@@ -85,7 +85,7 @@ Long chapter, short practices.
 # Chapter 8
 Finished without programming. Plan on creating additional exercises to this Chapter because many materials are lack of practice.
 
-[CHAPTER 8 SOLUTION PDF HERE](https://github.com/LyWangPX/Solutions-of-Reinforcement-Learning-An-Introduction-Sutton-2nd/blob/master/Chapter%208/Solutions_to_Reinforcement_Learning_by_Sutton_Chapter_8.pdf)
+[CHAPTER 8 SOLUTION PDF HERE](https://github.com/LyWangPX/Solutions-of-Reinforcement-Learning-An-Introduction-Sutton-2nd/blob/master/Chapter%208/Solutions_to_Reinforcement_Learning_by_Sutton_Chapter_8_rx.pdf)
 
 # Chapter 7
 Finished without programming. Thanks for help from Zhiqi Pan.
