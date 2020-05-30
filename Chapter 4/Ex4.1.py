@@ -3,7 +3,10 @@ from tabulate import tabulate
 
 class State: # class for each unit on the game
     def __init__(self, _id):
-        self.value = 0
+        if _id != 0:
+            self.value = 0
+        elif _id == 0:
+            self.value = 0
         self.id = _id
         self.left_bound = max(1, (self.id // 4) * 4)  # save the left border
         self.right_bound =  min(14, (self.id // 4) * 4 + 3) # save the right border
@@ -16,8 +19,6 @@ class State: # class for each unit on the game
                 return self.id - 1
             elif self.id - 1 == 0:
                 return 0
-            elif self.id == 16:
-                return 16
             else:
                 return self.id
         if u == 'R':  # move right
@@ -25,8 +26,6 @@ class State: # class for each unit on the game
                 return self.id + 1
             elif self.id + 1 == 15:
                 return 0
-            elif self.id == 16:
-                return 16
             else:
                 return self.id
         if u == 'U':  # move up
@@ -34,8 +33,6 @@ class State: # class for each unit on the game
                 return self.id - 4
             elif self.id - 4 == 0:
                 return 0
-            elif self.id == 16:
-                return 13
             else:
                 return self.id
         if u == 'D':  # move down
@@ -43,8 +40,6 @@ class State: # class for each unit on the game
                 return self.id + 4
             elif self.id + 4 == 15:
                 return 0
-            elif self.id == 13:
-                return 16
             else:
                 return self.id
 
@@ -64,7 +59,6 @@ def train(k=10):
     S = {0: S_T}
     for j in range(1, 15):
         S[j] = State(j)
-    S[16] = State(16)
     for loop in range(k):
         if loop>=1000 and loop%1000 == 0:
             print("Training "+str(loop)+"'s loop.......Remaining: "+str(k-loop)+ " loops")
@@ -75,8 +69,7 @@ def train(k=10):
         else:
             for j in range(14, 0, -1):
                 S[j].update(S)
-        S[16].update(S)
-    for t in range(0,17):
+    for t in range(0,16):
         if t == 0 or t == 15:
             V.append("0")
         else:
@@ -88,8 +81,6 @@ def draw(valueArray):
     for i in range(4):
         print("----------------------")
         print("| "+str(int(valueArray[i*4]))+" | "+str(int(valueArray[i*4+1])) +" | "+str(int(valueArray[i*4+2])) +" | "+str(int(valueArray[i*4+3])) +" |")
-    print("----------------------")
-    print("|    | "+str(int(valueArray[16])) +" |    |   |")
     print("----------------------")
     print("Accurate State Values List:")
     for i in range(1,8):
