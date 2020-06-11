@@ -44,7 +44,9 @@ Let's roll'n out!
 
 ### UPDATE LOG:
 
-**[UPDATE APRIL 2020]** After implementing Ape-X and D4PG in my another project, I will go back to this project and at least finish the policy gradient chapter. 
+**Next Update TBD**
+
+[UPDATE APRIL 2020] After implementing Ape-X and D4PG in my another project, I will go back to this project and at least finish the policy gradient chapter. 
 
 [UPDATE MAR 2020] Chapter 12 almost finished and is updated, except for the last 2 questions. One for dutch trace and one for double expected SARSA. They are tricker than other exercises and I will update them little bit later. Please share your ideas by opening issues if you already hold a valid solution.**
 
