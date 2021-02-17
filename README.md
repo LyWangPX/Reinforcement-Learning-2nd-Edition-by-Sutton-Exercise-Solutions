@@ -44,7 +44,7 @@ Let's roll'n out!
 
 ### UPDATE LOG:
 
-**Next Update TBD**
+**Will update and revise this repo after 2021 April**
 
 [UPDATE APRIL 2020] After implementing Ape-X and D4PG in my another project, I will go back to this project and at least finish the policy gradient chapter. 
 
