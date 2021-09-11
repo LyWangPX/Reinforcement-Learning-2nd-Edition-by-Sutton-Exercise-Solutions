@@ -1,6 +1,24 @@
 # Solutions of Reinforcement Learning 2nd Edition ([Original Book](https://www.amazon.co.jp/exec/obidos/ASIN/0262039249/hatena-blog-22/) by Richard S. Sutton,Andrew G. Barto)
 
-### Chapter 12 Updated. See Log below for detail. 
+## How to contribute and current situation (9/11/2021~)
+
+I have been working as a full-time AI engineer and barely have free time to manage this project any more. I want to make a simple guidance of how to response to contributions:
+
+### For exercises that have no answer yet, (for example, chapter 12)
+1. Prepare your latex code, make sure it works and looks somewhat nice.
+2. Send you code to ericwang.usa@gmail.com. By default, I will put contributer's name in the pdf file, besides the exercise. You can be anoymous as well just noted in the email.
+3. I will update the corresponding solution pdf.
+
+### For solution that you think is wrong, but it is trivial to change:
+1. Ask in issues. If there are multiple confirmations and reports to the same issue, I will change the excercise. (the pass rate of such issue is around 30%)
+
+###  For solution that you think is wrong or incomplete, but it is hard to say that in issue. 
+Follow the first steps (just as if this exercise has no solution)
+
+I know there is an automatic-ish commit and contribute to pdf procedure, but from the number of contributions, I decide to pass it on. (currently only 2% is contributed by person other than me)
+
+Now I am more concentrated on computer vision and have less time contributing to the interest (RL). But I do hope and think RL is the future subject that will be on the top of AI pyramid one day and I will come back. Thanks for all your supports and best wishes to your own careers.
+
 
 ### Those students who are using this to complete your homework, stop it. This is written for serving millions of self-learners who do not have official guide or proper learning environment. And, Of Course, as a personal project, it has ERRORS. (Contribute to issues if you find any).
 
