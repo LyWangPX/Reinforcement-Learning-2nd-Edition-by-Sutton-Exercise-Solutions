@@ -28,6 +28,9 @@ Main author would be me and current main cooperater is **Jean Wissam Dupin**, an
 
 ### Main Contributers for Error Fixing:
 
+### Simon Haastert's work
+Chapter 9: 9.6
+
 ### burmecia's Work (Error Fix and code contribution)
 Chapter 3: 
 Ex 3.4, 3.5, 3.6, 3.9, 3.19
