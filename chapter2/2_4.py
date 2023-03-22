@@ -17,7 +17,7 @@ def eps_greedy(epsilon, Q):
     if sample<=1-epsilon:
         return i
     else:
-       np.delete(action_space,i)
+       action_space=np.delete(action_space,i)
        return np.random.choice(action_space)
 
 def multi_task(max_iter,task_number,epsilon,arm_number,step_size):
