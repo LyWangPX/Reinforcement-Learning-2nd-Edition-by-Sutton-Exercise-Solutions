@@ -17,7 +17,7 @@ class State: # class for each unit on the game
             elif self.id - 1 == 0:
                 return 0
             elif self.id == 16:
-                return 16
+                return 12
             else:
                 return self.id
         if u == 'R':  # move right
@@ -26,7 +26,7 @@ class State: # class for each unit on the game
             elif self.id + 1 == 15:
                 return 0
             elif self.id == 16:
-                return 16
+                return 14
             else:
                 return self.id
         if u == 'U':  # move up
