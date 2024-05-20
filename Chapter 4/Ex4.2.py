@@ -92,7 +92,7 @@ def draw(valueArray):
     print("|    | "+str(int(valueArray[16])) +" |    |   |")
     print("----------------------")
     print("Accurate State Values List:")
-    for i in range(1,8):
+    for i in range(1,9):
         print("State "+str(2*i-1)+": "+str(valueArray[2*i-1])+ "          State "+str(2*i)+": "+str(valueArray[2*i]))
 
 if __name__ == '__main__':
