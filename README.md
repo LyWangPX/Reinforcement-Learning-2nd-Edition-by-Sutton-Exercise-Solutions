@@ -51,6 +51,9 @@ Ex 6.11, 5.11, 10.5, 10.6
 Ex 10.4 10.6 10.7
 Ex 12.1 (alternative solution)
 
+### Alireza Azimi's Work
+Chapter 13
+
 ### Other people (Error Fix):
 
 Ex 10.2  SHITIANYU-hue 
@@ -65,7 +68,7 @@ Let's roll'n out!
 
 ### UPDATE LOG:
 
-**Will update and revise this repo after 2021 April**
+[UPDATE JULY 2025] Update Chapter 13. Thanks to the contributer Alireza Azimi.
 
 [UPDATE APRIL 2020] After implementing Ape-X and D4PG in my another project, I will go back to this project and at least finish the policy gradient chapter. 
 
